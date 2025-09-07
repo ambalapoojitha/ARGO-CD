@@ -15,6 +15,6 @@ spec:
       spec:
          containers:
            - name: cont1
-             image: shaikmustafa/paytm:movie
+             image: ambalapoojitha/tetris1:v1
              ports: 
-              - containerPort: 80
+              - containerPort: 3000
